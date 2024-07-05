@@ -28,3 +28,11 @@
   26. Creating Dashbord(Dashbord - combination of sheets)
   27. Adding Interactive action filter.(to Dashboard)
   28. Adding Interactive action Highlighting(to Dashbourd)
+  29. QUIZ 2
+
+4. Day 5: 5/07/2024
+* Section 5 
+  30. Introduction of section 5.(3 ways of connecting the dataset - Joining,Blending,Relationship)
+  31. Understanding about the joints(Inner joint,Full outer joint,left outer joint,right outer joint)
+  32. Joints on duplicate data.
+  33. Joints on multiple field.
