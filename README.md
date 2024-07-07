@@ -36,3 +36,4 @@
   31. Understanding about the joints(Inner joint,Full outer joint,left outer joint,right outer joint)
   32. Joints on duplicate data.
   33. Joints on multiple field.
+  ** TABLEAU BASIS COMPLETED NOW PROJECTS
