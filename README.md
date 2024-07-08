@@ -39,11 +39,11 @@
 * TABLEAU BASIS COMPLETED NOW PROJECTS
 5. Day 6:08/07/2024
   * Section 6
-  41. Introduction
-  42. Downloading the dataset to connect to tableau
-  43. Mapping: How to set geographical roles
-  44. Creating table calculaatio for gender(percentage)
-  45. Creating bins and distribution for age
-  46. Leverage the power of parameters
-  47. How to create tree map
-  48. Advance dash bour interactivity 
+  * 41. Introduction
+    42. Downloading the dataset to connect to tableau
+    43. Mapping: How to set geographical roles
+    44. Creating table calculaatio for gender(percentage)
+    45. Creating bins and distribution for age
+    46. Leverage the power of parameters
+    47. How to create tree map
+    48. Advance dash bour interactivity 
